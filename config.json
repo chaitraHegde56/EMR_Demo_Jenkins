@@ -1,0 +1,22 @@
+{ 
+  "config": { "aws_access_key": "AKIAR25K5SGRTF7JKTHV",
+              "aws_secret_access_key": "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",
+              "riskdb_access_key": "AKIAR25K5SGRWUBCTGOX",
+              "riskdb_secret_key": "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",
+              "driver_memory": "3g",
+              "executor_memory" : "5g",
+              "riskdb_region"    : "us-west-2",
+              "aws_region": "ap-south-1",
+              "emr_cluster_name": "emr-demo-cluster",
+              "instances": 2,
+              "master_instance": "m5.2xlarge",
+              "slave_instance": "m5.2xlarge",
+              "key_pair": "demo-emr",
+              "subnet_id": "subnet-1765f86c",
+              "s3_logs": "s3://emr-demos",
+              "s3_logs_bucket": "emr-demos",
+              "emr_version": "emr-5.33.1",
+              "script_bucket_name": "emr-demos",
+              "eip_allocation_ids": [ "eipalloc-6fade555", "eipalloc-a1a3eb9b", "eipalloc-ee97dfd4"]
+            }
+}
