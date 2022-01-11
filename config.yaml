@@ -1,0 +1,10 @@
+output-path:
+#    dir: s3a://testemrchai/emr_test_output/
+    dir: /home/tm/test_mr_output
+
+input-path:
+    dir: s3a://testemrchai/emr_test_input/
+
+s3:
+    access_key: AKIAR25K5SGRWUBCTGOX
+    secret_key: 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
