@@ -1,8 +1,8 @@
 { 
-  "config": { "aws_access_key": "AKIAR25K5SGRTF7JKTHV",
-              "aws_secret_access_key": "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",
-              "riskdb_access_key": "AKIAR25K5SGRWUBCTGOX",
-              "riskdb_secret_key": "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",
+  "config": { "aws_access_key": "xxx",
+              "aws_secret_access_key": "xxx",
+              "riskdb_access_key": "xxx",
+              "riskdb_secret_key": "xxx",
               "driver_memory": "3g",
               "executor_memory" : "5g",
               "riskdb_region"    : "us-west-2",
