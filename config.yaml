@@ -6,5 +6,5 @@ input-path:
     dir: s3a://testemrchai/emr_test_input/
 
 s3:
-    access_key: AKIAR25K5SGRWUBCTGOX
-    secret_key: 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
+    access_key: xxx
+    secret_key: xxx
